@@ -1,0 +1,41 @@
+    .Green{
+    color:#008000;
+    }
+  .body{
+     font-family:sans-seriff;
+    color:#777777;
+    line-height:60px ;
+    }
+    .half-width{
+            width= 100%;          
+            float: left;
+    }
+    .side-img{
+            width:100%;
+            height:100% ;
+            padding-right:25%
+    }
+   .primary-btn{
+           color:white;
+           background-color:green;
+           padding:10px 10px;
+           border-radius:20px;
+           text-decoration; none;
+           }
+         h1 {font-size:2em;
+         }
+     .container{
+     padding-left:5%;
+     display:inline block;
+     }
+     . experience{
+     padding:20px;{}
+     margin:30px ;
+     background-color:rgb(238,251,255);
+     border-radius:20px ;
+     }
+     . experience-item{
+     padding:10px;
+     border-left:1px solid rgba(137,130,247,.2);
+     }
+   
