@@ -11,8 +11,8 @@
             float: left;
     }
     .side-img{
-            width:100%;
-            height:100% ;
+            width:80%;
+            height:80% ;
             padding-right:25%
     }
    .primary-btn{
@@ -29,7 +29,7 @@
      display:inline block;
      }
      . experience{
-     padding:20px;{}
+     padding:20px;{
      margin:30px ;
      background-color:rgb(238,251,255);
      border-radius:20px ;
